@@ -27,8 +27,16 @@ ul {
     float:right;
     margin: auto 5px;
 }
-
 .course img {
     width:200px;
+    height:auto;
+}
+
+.Introduction p {
+    
+}
+.Introduction img {
+    float:left;
+    width:300px;
     height:auto;
 }
