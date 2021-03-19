@@ -7,14 +7,13 @@ body {
     color:#242424;
     line-height:1.6;
     letter-spacing: 0.02em;
-    text-align:center;
 }
 ul {
     list-style: none;
 }
 
 .top-menu {
-    height:500px;
+    height:50px;
     margin:20px;
 }
 .logo {
@@ -28,6 +27,7 @@ ul {
 
 .Introduction {
     height:300px;
+    text-align:center;
 }
 .Introduction p {
     margin:20px;   
@@ -38,6 +38,9 @@ ul {
     height:auto;
 }
 
+.course {
+    text-align:center;
+}
 .course li {
     display: inline-block;
 }
