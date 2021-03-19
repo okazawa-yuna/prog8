@@ -24,13 +24,15 @@ ul {
     float:left;
     font-size:20px;
     font-weight:bold;
-    margin:auto 50px;
+    line-height:50px;
 }
 .menu ul {
     margin: auto 50px;
+    line-height:50px;
 }
 .menu li {
     float:right;
+    padding: 0px 10px;
 }
 
 @media(max-width:768px) {
