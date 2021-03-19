@@ -13,13 +13,13 @@ ul {
     list-style: none;
 }
 
-.top-menu p {
+.logo {
     display:inline-block;
     font-size:20px;
     font-weight:bold;
 }
 
-.top-menu li {
+.menu ul li {
     float:right;
     margin: auto 5px;
 }
