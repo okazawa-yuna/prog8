@@ -19,7 +19,6 @@ ul {
     font-weight:bold;
 }
 
-.menu ul li {
+.menu li {
     float:right;
-    margin: auto 5px;
 }
