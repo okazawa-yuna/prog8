@@ -14,11 +14,10 @@ ul {
 }
 
 .top-menu {
-    height:100px;
-    padding:20px;
+    height:500px;
+    margin:20px;
 }
 .logo {
-    display:inline-block;
     font-size:20px;
     font-weight:bold;
 }
@@ -26,16 +25,20 @@ ul {
     float:right;
     margin: auto 5px;
 }
-.course img {
-    width:200px;
-    height:auto;
-}
 
 .Introduction p {
-    
+    margin:20px;   
 }
 .Introduction img {
     float:left;
     width:300px;
+    height:auto;
+}
+
+.course li {
+    float:right;
+}
+.course img {
+    width:200px;
     height:auto;
 }
