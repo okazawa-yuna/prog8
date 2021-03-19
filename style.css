@@ -10,10 +10,7 @@ body {
     line-height:1.6;
     letter-spacing: 0.02em;
 }
-ul {
-    list-style: none;
-  }
-  
+
 header {
     margin: 10px 30px ;
 }
@@ -21,8 +18,10 @@ header {
 .top-menu p {
     font-size:20px;
 }
-
-.top-menu li {
+.menu {
+    list-style: none;
+  }
+.menu li {
     float:left;
     margin: auto 5px;
 }
