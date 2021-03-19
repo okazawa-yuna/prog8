@@ -6,22 +6,19 @@ body {
     max-width: 1024px;
     font-family:'Noto Sans JP', "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
     color:#242424;
-    font-size:16px;
     line-height:1.6;
     letter-spacing: 0.02em;
+    text-align:center;
 }
-
-header {
-    margin: 10px 30px ;
+ul {
+    list-style: none;
 }
 
 .top-menu p {
     font-size:20px;
 }
-.menu {
-    list-style: none;
-  }
-.menu li {
+
+.top-menu li {
     float:left;
     margin: auto 5px;
 }
