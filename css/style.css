@@ -13,9 +13,9 @@ ul {
 }
 
 .top-menu {
+    width:70%;
     height:50px;
     margin:20px;
-    text-align: center;
 }
 .logo {
     float:left;
