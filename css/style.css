@@ -8,14 +8,15 @@ body {
     color:#242424;
     line-height:1.6;
     letter-spacing: 0.02em;
-    text-align:center;
 }
 ul {
     list-style: none;
 }
 
 .top-menu p {
+    display:inline-block;
     font-size:20px;
+    font-weight:bold;
 }
 
 .top-menu li {
