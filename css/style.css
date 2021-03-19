@@ -26,6 +26,9 @@ ul {
     margin: auto 5px;
 }
 
+.Introduction {
+    height:300px;
+}
 .Introduction p {
     margin:20px;   
 }
