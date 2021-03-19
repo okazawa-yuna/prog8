@@ -39,7 +39,7 @@ ul {
 }
 
 .course li {
-    float:right;
+    display: inline-block;
 }
 .course img {
     width:200px;
