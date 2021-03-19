@@ -8,23 +8,27 @@ body {
     color:#242424;
     line-height:1.6;
     letter-spacing: 0.02em;
+    text-align:center;
 }
 ul {
     list-style: none;
 }
 
+.top-menu {
+    height:100px;
+    padding:20px;
+}
 .logo {
     display:inline-block;
     font-size:20px;
     font-weight:bold;
 }
-
 .menu li {
     float:right;
     margin: auto 5px;
 }
 
 .course img {
-    width:100px;
+    width:200px;
     height:auto;
 }
