@@ -54,10 +54,7 @@ ul {
 }
 
 /*概要*/
-.Introduction {
-    display:flex;
-    justify-content: space-between;
-    align-items:center;
+.Introduction {;
     margin: 20px 50px;
 }
 .Introduction-text {
