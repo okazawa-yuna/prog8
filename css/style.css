@@ -55,7 +55,7 @@ ul {
 
 /*概要*/
 .Introduction {
-    margin: 20px 50px;
+    margin: 20px auto;
 }
 .Introduction-text {
     padding: 5px;
