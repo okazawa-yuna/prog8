@@ -55,12 +55,10 @@ ul {
 
 /*概要*/
 .Introduction {
+    text-align: center;
     margin: 20px auto;
 }
 .Introduction-text {
-    text-align: center;
-}
-.Introduction-text p {
     display:inline-block;
     padding: 5px;
 }
