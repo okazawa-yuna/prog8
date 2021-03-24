@@ -55,6 +55,9 @@ ul {
 
 /*概要*/
 .Introduction {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
     margin: 20px 50px;
 }
 .Introduction-text {
@@ -67,10 +70,12 @@ ul {
 
 /*コース紹介*/
 .course {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
     margin: 20px auto;
 }
 .course-menu li {
-    display: inline-block;
     padding: 5px;
 }
 .course img {
