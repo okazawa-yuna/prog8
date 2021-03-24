@@ -57,6 +57,9 @@ ul {
 .Introduction {
     margin: 20px auto;
 }
+.Introduction-text {
+    text-align: center;
+}
 .Introduction-text p {
     display:inline-block;
     padding: 5px;
