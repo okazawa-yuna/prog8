@@ -44,10 +44,10 @@ ul {
     text-align:center;
 }
 .Introduction p {
-    margin:20px;   
+    margin:20px;
+    float:right ;
 }
 .Introduction img {
-    float:left;
     width:300px;
     height:auto;
 }
