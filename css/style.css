@@ -16,7 +16,6 @@ h2 {
     font-weight: bold;
     margin: 10px auto;
 }
-
 ul {
     list-style: none;
 }
@@ -28,7 +27,9 @@ ul {
     height:50px;
     margin:20px;
 }
+
 .main-vsual img {
+    display: block;
     width:100% ;
     height: auto;
 }
@@ -50,4 +51,29 @@ ul {
     .clear {
         clear: left;
     }
+}
+
+/*概要*/
+.Introduction {
+    margin: 20px 50px;
+}
+.Introduction-text {
+    padding: 5px;
+}
+.Introduction img {
+    width:300px;
+    height:auto;
+}
+
+/*コース紹介*/
+.course {
+    margin: 20px auto;
+}
+.course-menu li {
+    display: inline-block;
+    padding: 5px;
+}
+.course img {
+    width:200px;
+    height:auto;
 }
