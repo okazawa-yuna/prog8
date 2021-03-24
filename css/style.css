@@ -38,21 +38,25 @@ ul {
         clear: left;
     }
 }
+
 /*概要*/
 .Introduction {
+    width:70% ;
     height:300px;
     text-align:center;
 }
 .Introduction p {
-    margin:20px;
+    margin-left:10px;
     float:right ;
 }
 .Introduction img {
     width:300px;
     height:auto;
 }
+
 /*コース紹介*/
 .course {
+    width:70% ;
     text-align:center;
 }
 .course li {
