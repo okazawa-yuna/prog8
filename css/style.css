@@ -54,7 +54,10 @@ ul {
 }
 
 /*概要*/
-.Introduction {;
+.Introduction {
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
     margin: 20px 50px;
 }
 .Introduction-text {
@@ -75,6 +78,6 @@ ul {
     align-items:center;
 }
 .course img {
-    width:200px;
+    width:300px;
     height:auto;
 }
