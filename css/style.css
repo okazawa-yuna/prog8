@@ -62,6 +62,7 @@ ul {
     float: right;
 }
 .Introduction img {
+    float:left ;
     width:300px;
     height:auto;
 }
