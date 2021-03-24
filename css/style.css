@@ -51,28 +51,3 @@ ul {
         clear: left;
     }
 }
-
-/*概要*/
-.Introduction {
-    margin: 20px 50px;
-}
-.Introduction-text {
-    padding: 5px;
-}
-.Introduction img {
-    width:300px;
-    height:auto;
-}
-
-/*コース紹介*/
-.course {
-    margin: 20px auto;
-}
-.course-menu li {
-    display: inline-block;
-    padding: 5px;
-}
-.course img {
-    width:200px;
-    height:auto;
-}
