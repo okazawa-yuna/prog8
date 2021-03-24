@@ -53,12 +53,13 @@ ul {
 
 /*概要*/
 .Introduction {
-    margin: 20px auto;
-    text-align:center;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    margin: 20px 50px;
 }
-.Introduction p {
+.Introduction-text {
     padding: 5px;
-    float:right ;
 }
 .Introduction img {
     width:300px;
