@@ -55,6 +55,7 @@ ul {
 
 /*概要*/
 .Introduction {
+    display:flex;
     justify-content: space-between;
     align-items:center;
     margin: 20px 50px;
@@ -72,6 +73,7 @@ ul {
     margin: 20px auto;
 }
 .course-menu {
+    display:flex;
     justify-content: space-between;
     align-items:center;
 }
