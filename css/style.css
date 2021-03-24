@@ -69,7 +69,6 @@ ul {
 /*コース紹介*/
 .course {
     margin: 20px auto;
-    text-align:center ;
 }
 .course-menu {
     display:flex;
