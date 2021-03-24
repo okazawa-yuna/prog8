@@ -69,12 +69,11 @@ ul {
 
 /*コース紹介*/
 .course {
-    justify-content: space-between;
-    align-items:center;
     margin: 20px auto;
 }
-.course-menu li {
-    padding: 5px;
+.course-menu {
+    justify-content: space-between;
+    align-items:center;
 }
 .course img {
     width:200px;
