@@ -21,6 +21,9 @@ ul {
 }
 /*トップメニュー*/
 .top-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
     height:50px;
     margin:20px;
 }
