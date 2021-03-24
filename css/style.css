@@ -57,11 +57,11 @@ ul {
 .Introduction {
     margin: 20px auto;
 }
-.Introduction-text {
+.Introduction-text p {
     display:inline-block;
     padding: 5px;
 }
-.Introduction img {
+.Introduction-text img {
     display:inline-block;
     width:300px;
     height:auto;
