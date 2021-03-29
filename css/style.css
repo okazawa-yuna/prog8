@@ -10,6 +10,7 @@ body {
 h1 {
     font-size: 28px;
     font-weight: bold;
+    vertical-align: middle;
 }
 .container h2 {
     font-size: 22px;
@@ -42,7 +43,7 @@ ul {
     height:647px ;
     width: auto;
 }
-.main-text {
+.main-text p {
     display: table-cell;
     vertical-align: middle;
 }
