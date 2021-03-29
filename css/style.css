@@ -59,7 +59,9 @@ ul {
     padding: 0 15px;
     margin: 0 auto;
 }
-
+.Introduction-wrapper img {
+    width:400px;
+}
 @media (min-width: 768px) { 
     .Introduction-wrapper { 
         width: 750px; 
