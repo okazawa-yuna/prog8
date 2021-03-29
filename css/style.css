@@ -22,10 +22,10 @@ ul {
 }
 
 @media screen and (min-width: 768px){
-    .br-sp {display: none; }
+    .br-pc {display: none; }
     }
 @media screen and (max-width: 768px){
-    .br-pc {display: none; }
+    .br-sp {display: none; }
     }
 
 /*トップメニュー*/
