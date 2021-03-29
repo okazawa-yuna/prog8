@@ -8,7 +8,7 @@ body {
     letter-spacing: 0.02em;
 }
 h1 {
-    font-size: 32px;
+    font-size: 3px;
     font-weight: bold;
 }
 .container h2 {
@@ -52,6 +52,7 @@ ul {
     transform: translate(-50%,-50%);
     margin:0;
     padding:0;
+    text-align: center;
 }
 
 /*
