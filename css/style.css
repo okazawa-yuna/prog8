@@ -55,7 +55,8 @@ ul {
 
 /*概要*/
 .Introduction-wrapper {
-    justify-content: center;
+    text-align: center;
+    align-items: flex-start;
     padding: 0 15px;
     margin: 0 auto;
 }
