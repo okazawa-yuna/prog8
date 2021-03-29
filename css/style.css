@@ -19,6 +19,14 @@ h1 {
 ul {
     list-style: none;
 }
+
+@media screen and (min-width: 768px){
+    .br-sp {display: none; }
+    }
+@media screen and (max-width: 768px){
+    .br-pc {display: none; }
+    }
+
 /*トップメニュー*/
 .top-menu {
     display: flex;
@@ -27,13 +35,20 @@ ul {
     height:50px;
     margin:20px;
 }
+.main-vsual {
+    background-image: url(img/main-vsual-nontitle.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
 
+/*
 .main-vsual img {
     display: block;
     width:100% ;
     height: auto;
     margin-bottom: 40px;
 }
+*/
 .logo {
     float:left;
     font-size:20px;
@@ -46,6 +61,12 @@ ul {
 .menu li {
     float:right;
     padding: 0px 10px;
+}
+
+@media (max-width:769px) {
+    .main-vsual img {
+        display : none;
+    }
 }
 
 /*概要*/
