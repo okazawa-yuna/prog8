@@ -41,14 +41,6 @@ ul {
     background-attachment: scroll;
     height:647px ;
     width: auto;
-        position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%,-50%);
-    -webkit-transform: translate(-50%,-50%);
-    transform: translate(-50%,-50%);
-    margin:0;
-    padding:0;
 }
 
 /*
