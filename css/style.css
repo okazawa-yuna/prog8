@@ -11,7 +11,7 @@ h1 {
     font-size: 28px;
     font-weight: bold;
 }
-h2 {
+.container h2 {
     font-size: 20px;
     font-weight: bold;
     margin: 20px auto;
@@ -32,6 +32,7 @@ ul {
     display: block;
     width:100% ;
     height: auto;
+    margin-bottom: 20px;
 }
 .logo {
     float:left;
