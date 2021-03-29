@@ -100,7 +100,10 @@ ul {
 
 /*問い合わせ*/
 
-
+.form {
+    padding:5px;
+    border-radius: 2%;
+}
 
 /*フッター*/
 
