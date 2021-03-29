@@ -12,9 +12,9 @@ h1 {
     font-weight: bold;
 }
 .container h2 {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
-    margin: 20px auto;
+    margin: 30px auto;
 }
 ul {
     list-style: none;
@@ -32,7 +32,7 @@ ul {
     display: block;
     width:100% ;
     height: auto;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .logo {
     float:left;
