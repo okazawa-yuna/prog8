@@ -87,7 +87,7 @@ ul {
 /*問い合わせ*/
 
 .form {
-    width:400px;
+    width:600px;
     padding:10px;
     border-radius: 30px;
     border-style: solid #c0c0c0;
@@ -101,6 +101,7 @@ ul {
     background-color: #ff6347;
     font-weight:bold;
     border-style: none;
+    border-radius: 5px;
 }
 
 @mediascreen (max-width:769px) {
