@@ -8,8 +8,9 @@ body {
     letter-spacing: 0.02em;
 }
 h1 {
-    font-size: 38px;
+    font-size: 42px;
     font-weight: bold;
+    text-align: center;
 }
 .container h2 {
     font-size: 22px;
