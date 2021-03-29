@@ -87,9 +87,9 @@ ul {
 /*問い合わせ*/
 
 .form {
-    padding:5px;
+    padding:10px;
     border-radius: 30px;
-    border-style: solid;
+    border-style: solid #c0c0c0;
     margin: 5px auto ;
 }
 .button {
