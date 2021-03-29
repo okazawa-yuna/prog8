@@ -8,7 +8,7 @@ body {
     letter-spacing: 0.02em;
 }
 h1 {
-    font-size: 3px;
+    font-size: 38px;
     font-weight: bold;
 }
 .container h2 {
@@ -52,9 +52,11 @@ ul {
     transform: translate(-50%,-50%);
     margin:0;
     padding:0;
+}
+.main-text p{
+    font-size:24px;
     text-align: center;
 }
-
 /*
 .main-vsual img {
     display: block;
