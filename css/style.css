@@ -87,14 +87,14 @@ ul {
 /*問い合わせ*/
 
 .form {
-    width: 80%;
+    width:400px;
     padding:10px;
     border-radius: 30px;
     border-style: solid #c0c0c0;
     margin: 10px auto ;
 }
 .button {
-    width:50% ;
+    width:300px;
     height:50px ;
     padding : 10px ;
     color: #fff;
@@ -102,6 +102,16 @@ ul {
     font-weight:bold;
     border-style: none;
 }
+
+@mediascreen (max-width:769px) {
+.form {
+    width: 80%;
+}
+.button {
+    width: 80%;
+}
+}
+
 /*フッター*/
 
 footer p{
