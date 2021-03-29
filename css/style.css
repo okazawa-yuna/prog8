@@ -36,12 +36,14 @@ ul {
     margin:20px;
 }
 .main-vsual {
-    display: table-cell;
     background-image: url("../img/main-vsual-nontitle.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
     height:647px ;
     width: auto;
+}
+.main-text {
+    display: table-cell;
     vertical-align: middle;
 }
 
