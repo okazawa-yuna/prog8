@@ -37,7 +37,7 @@ ul {
     margin:20px;
 }
 .main-vsual {
-    background-image: url(img/main-vsual-nontitle.png);
+    background-image: url("../img/main-vsual-nontitle.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
 }
