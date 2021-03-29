@@ -97,3 +97,14 @@ ul {
     width:300px;
     height:auto;
 }
+
+/*問い合わせ*/
+
+
+
+/*フッター*/
+
+footer p{
+    text-align: right;
+    margin-right: 50px;
+}
