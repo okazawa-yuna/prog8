@@ -58,17 +58,26 @@ ul {
     width:500px;
 }
 
+@media (min-width: 768px) { 
+    .container { 
+        width: 750px; 
+        } 
+    } 
+
+@media (min-width: 992px) { 
+    .container { 
+        width: 970px; 
+        } 
+    } 
+
+@media (min-width: 1200px) { 
+    .container { 
+        width: 1170px; 
+        } 
+    }
 
 /*コース紹介*/
-.course {
-    display:block;
-    margin: 20px auto;
-}
-.course-menu {
-    display:flex;
-    justify-content: space-between;
-    align-items:center;
-}
+
 .course img {
     width:300px;
     height:auto;
