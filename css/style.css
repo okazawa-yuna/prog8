@@ -54,29 +54,30 @@ ul {
 }
 
 /*概要*/
-.Introduction-wrapper {
+.container {
     text-align: center;
     align-items: flex-start;
     padding: 0 15px;
     margin: 0 auto;
 }
-.Introduction-wrapper img {
+.about img {
     width:400px;
 }
+
 @media (min-width: 768px) { 
-    .Introduction-wrapper { 
+    .container { 
         width: 750px; 
         } 
     } 
 
 @media (min-width: 992px) { 
-    .Introduction-wrapper { 
+    .container { 
         width: 970px; 
         } 
     } 
 
 @media (min-width: 1200px) { 
-    .Introduction-wrapper { 
+    .container { 
         width: 1170px; 
         } 
     }
