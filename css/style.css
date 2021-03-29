@@ -8,7 +8,7 @@ body {
     letter-spacing: 0.02em;
 }
 h1 {
-    font-size: 28px;
+    font-size: 32px;
     font-weight: bold;
 }
 .container h2 {
@@ -36,11 +36,22 @@ ul {
     margin:20px;
 }
 .main-vsual {
+    position:relative;
     background-image: url("../img/main-vsual-nontitle.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
     height:647px ;
     width: auto;
+}
+.main-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin:0;
+    padding:0;
 }
 
 /*
