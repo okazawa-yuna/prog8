@@ -10,7 +10,6 @@ body {
 h1 {
     font-size: 28px;
     font-weight: bold;
-    text-align: center;
 }
 .container h2 {
     font-size: 22px;
@@ -42,10 +41,9 @@ ul {
     background-image: url("../img/main-vsual-nontitle.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
+    vertical-align: middle;
 }
-.main-vsual p {
-    text-align: center;
-}
+
 /*
 .main-vsual img {
     display: block;
