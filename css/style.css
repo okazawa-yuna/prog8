@@ -14,7 +14,7 @@ h1 {
 h2 {
     font-size: 24px;
     font-weight: bold;
-    margin: 10px auto;
+    margin: 20px auto;
 }
 ul {
     list-style: none;
@@ -61,7 +61,7 @@ ul {
     margin: 0 auto;
 }
 .introduction img {
-    width:400px;
+    width:500px;
 }
 
 @media (min-width: 768px) { 
