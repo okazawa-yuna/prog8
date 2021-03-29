@@ -58,16 +58,6 @@ ul {
     text-align: center;
     margin: 20px auto;
 }
-.Introduction-text {
-    display:inline-block;
-    vertical-align: top;
-    padding: 5px;
-    width:30%;
-}
-.Introduction-text img {
-    width:400px;
-    height:auto;
-}
 
 /*コース紹介*/
 .course {
