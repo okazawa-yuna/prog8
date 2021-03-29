@@ -42,7 +42,7 @@ ul {
     height:647px ;
     width: auto;
 }
-.main-text {
+.main-text h1, p {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -68,7 +68,7 @@ ul {
     margin:auto 10px;
 }
 .menu ul {
-    margin: auto 50px;
+    margin: auto 20px;
 }
 .menu li {
     float:right;
