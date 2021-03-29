@@ -55,8 +55,27 @@ ul {
 
 /*概要*/
 .Introduction-wrapper {
-    justify-content: space-between;
+    padding: 0 15px;
+    margin: 0 auto;
 }
+
+@media (min-width: 768px) { 
+    .Introduction-wrapper { 
+        width: 750px; 
+        } 
+    } 
+
+@media (min-width: 992px) { 
+    .Introduction-wrapper { 
+        width: 970px; 
+        } 
+    } 
+
+@media (min-width: 1200px) { 
+    .Introduction-wrapper { 
+        width: 1170px; 
+        } 
+    }
 
 /*コース紹介*/
 .course {
