@@ -79,6 +79,7 @@ ul {
     .menu li {
         float: left ;
         font-size:14px;
+        padding: 0px 8px;
     }
     .top-menu {
         flex-flow: column;
