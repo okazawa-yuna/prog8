@@ -176,14 +176,7 @@ ul {
     border-radius: 5px;
 }
 
-@media (max-width:769px) {
-.form {
-    width: 100%;
-}
-.button {
-    width: 80%;
-}
-}
+
 
 /*フッター*/
 
