@@ -80,8 +80,8 @@ ul {
         float: left ;
     }
     .top-menu {
-        display: block;
-        text-align: center;
+        flex-flow: column;
+        justify-content: center;
     }
     .main-text p{
         font-size:18px;
