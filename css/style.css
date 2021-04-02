@@ -181,10 +181,10 @@ ul {
 }
 @media (max-width:769px) {
     .form {
-        width:250px;
+        width:300px;
     }
     .button {
-        width:150px;
+        width:200px;
     }
 }
 /*フッター*/
