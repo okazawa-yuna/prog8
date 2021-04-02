@@ -110,6 +110,8 @@ ul {
     .container { 
         width: 750px; 
         } 
+    .introduction img {
+        width:70%;
     } 
 
 @media (min-width: 992px) { 
