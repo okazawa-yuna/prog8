@@ -94,7 +94,7 @@ ul {
         display : none;
     }
     .clear {
-        clear :right;
+        clear :left;
     }
 }
 
