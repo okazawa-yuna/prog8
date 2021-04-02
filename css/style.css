@@ -65,9 +65,6 @@ ul {
     .main-text h1{
         font-size: 26px;
     }
-    .clear {
-        clear :both;
-    }
 }
 
 /*
@@ -95,6 +92,9 @@ ul {
 @media (max-width:769px) {
     .main-vsual img {
         display : none;
+    }
+    .clear {
+        clear :right;
     }
 }
 
