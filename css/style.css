@@ -196,7 +196,8 @@ footer p {
     text-align: right;
 }
 hr {
-    background-color: #696969;
+    height: 2px;
+    background-color: #a9a9a9;
     width: 80%;
     border: none;
     text-align: center;
