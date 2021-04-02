@@ -58,23 +58,6 @@ ul {
     font-size:24px;
     text-align: center;
 }
-@media screen and (max-width: 768px){
-    .main-text p{
-        font-size:18px;
-    }
-    .main-text h1{
-        font-size: 26px;
-    }
-}
-
-/*
-.main-vsual img {
-    display: block;
-    width:100% ;
-    height: auto;
-    margin-bottom: 40px;
-}
-*/
 .logo {
     float:left;
     font-size:20px;
@@ -93,7 +76,29 @@ ul {
     .main-vsual img {
         display : none;
     }
+    .menu li {
+        float: left ;
+    }
+    .top-menu {
+        display: block;
+        text-align: center;
+    }
+    .main-text p{
+        font-size:18px;
+    }
+    .main-text h1{
+        font-size: 26px;
+    }
 }
+
+/*
+.main-vsual img {
+    display: block;
+    width:100% ;
+    height: auto;
+    margin-bottom: 40px;
+}
+*/
 
 /*概要*/
 .container {
