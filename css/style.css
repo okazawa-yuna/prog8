@@ -8,12 +8,12 @@ body {
     letter-spacing: 0.02em;
 }
 h1 {
-    font-size: 38px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
 }
 .container h2 {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: bold;
     margin: 30px auto;
 }
@@ -165,5 +165,6 @@ ul {
 footer p{
     font-size:14px;
     text-align: right;
+    margin-top:50px;
     margin-right: 50px;
 }
