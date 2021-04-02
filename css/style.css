@@ -76,6 +76,9 @@ ul {
     .main-vsual img {
         display : none;
     }
+    .menu li {
+        float: left ;
+    }
     .top-menu {
         flex-flow: column;
         justify-content: center;
