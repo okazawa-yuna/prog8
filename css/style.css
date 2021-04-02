@@ -191,13 +191,18 @@ ul {
 }
 /*フッター*/
 
+footer .copyright {
+    width:80%;
+}
 footer p {
     font-size:14px;
     text-align: right;
 }
-
-.copyright {
-    width:80%;
+hr {
+    background-color: #696969;
+    width: 80%;
+    border: none;
+    text-align: center;
 }
 
 @media (max-width:769px) {
