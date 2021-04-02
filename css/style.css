@@ -109,6 +109,7 @@ ul {
 }
 .introduction img {
     width:450px;
+    margin: 10px;
 }
 
 @media (max-width: 768px) { 
