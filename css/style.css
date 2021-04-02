@@ -179,7 +179,7 @@ ul {
     font-weight:bold;
     border-style: none;
     border-radius: 5px;
-    margin-top: 20px;
+    margin: 20px 0 100px 0;
 }
 @media (max-width:769px) {
     .form {
@@ -194,7 +194,6 @@ ul {
 footer p {
     font-size:14px;
     text-align: right;
-    margin-top:300px;
     margin-right: 50px;
 }
 @media (max-width:769px) {
