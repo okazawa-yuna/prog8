@@ -161,9 +161,8 @@ ul {
     position: relative;
     display: block;
 }
-
 .form {
-    width:80%;
+    width:400px;
     padding:10px;
     border-radius: 30px;
     border-style: solid #c0c0c0;
@@ -171,7 +170,7 @@ ul {
 }
 .button {
     display: block;
-    width:60%;
+    width:200px;
     height:60px ;
     padding : 10px ;
     color: #fff;
