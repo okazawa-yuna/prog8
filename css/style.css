@@ -65,6 +65,9 @@ ul {
     .main-text h1{
         font-size: 26px;
     }
+    .clear {
+        clear :both;
+    }
 }
 
 /*
@@ -113,6 +116,7 @@ ul {
     .introduction img {
         width:70%;
     } 
+}
 
 @media (min-width: 992px) { 
     .container { 
