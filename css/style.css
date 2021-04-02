@@ -160,16 +160,16 @@ ul {
 .form-area {
     position: relative;
     display: block;
+    text-align: center;
 }
 .form {
-    width:400px;
+    width:500px;
     padding:10px;
     border-radius: 30px;
     border-style: solid #c0c0c0;
     margin: 5px auto ;
 }
 .button {
-    display: block;
     width:200px;
     height:60px ;
     padding : 10px ;
@@ -179,8 +179,14 @@ ul {
     border-style: none;
     border-radius: 5px;
 }
-
-
+@media (max-width:769px) {
+    .form {
+        width:250px;
+    }
+    .button {
+        width:150px;
+    }
+}
 /*フッター*/
 
 footer p{
