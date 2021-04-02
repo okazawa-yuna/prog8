@@ -190,7 +190,9 @@ ul {
     }
 }
 /*フッター*/
-
+.copyright {
+    margin: 0 20px;
+}
 footer p {
     font-size:14px;
     text-align: right;
@@ -198,7 +200,6 @@ footer p {
 hr {
     height: 2px;
     background-color: #a9a9a9;
-    width: 80%;
     border: none;
     margin:0 auto ;
 }
@@ -207,5 +208,8 @@ hr {
     footer p {
         text-align: center;
         font-size: 10px;
+    }
+    .copyright {
+        margin: 0px ;
     }
 }
