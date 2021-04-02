@@ -198,5 +198,6 @@ footer p{
 @media (max-width:769px) {
     footer p{
         text-align: center;
+        font-size: 14px;
     }
 }
