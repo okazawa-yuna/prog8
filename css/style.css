@@ -198,11 +198,7 @@ footer p {
 hr .hr {
     width: 80%;
     text-align: center;
-    border-top: 1px solid #8c8b8b;
-}
-
-.copyright {
-    width:80%;
+    border-top: 1px solid #696969;
 }
 
 @media (max-width:769px) {
