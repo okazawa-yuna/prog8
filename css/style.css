@@ -167,7 +167,6 @@ ul {
     padding:10px;
     border-radius: 30px;
     border-style: solid #c0c0c0;
-    margin: 5px auto ;
 }
 .button {
     width:200px;
@@ -178,6 +177,7 @@ ul {
     font-weight:bold;
     border-style: none;
     border-radius: 5px;
+    margin-top: 10px;
 }
 @media (max-width:769px) {
     .form {
