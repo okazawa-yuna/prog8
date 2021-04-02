@@ -194,8 +194,11 @@ ul {
 footer p {
     font-size:14px;
     text-align: right;
-    margin-right: 50px;
 }
+.copyright {
+    width:80%;
+}
+
 @media (max-width:769px) {
     footer p {
         text-align: center;
