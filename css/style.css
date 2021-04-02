@@ -183,7 +183,7 @@ ul {
 }
 @media (max-width:769px) {
     .form {
-        width:300px;
+        width:100px;
     }
     .button {
         width:200px;
