@@ -114,7 +114,7 @@ ul {
         width: 750px; 
         } 
     .introduction img {
-        width:70%;
+        width:80%;
     } 
 }
 
@@ -122,19 +122,30 @@ ul {
     .container { 
         width: 970px; 
         } 
+    .introduction img {
+        width:80%;
     } 
+}
 
 @media (max-width: 1200px) { 
     .container { 
         width: 1170px; 
-        } 
+        }
+    .introduction img {
+        width:80%;
     }
+}
 
 /*コース紹介*/
 
 .course img {
     width:300px;
     height:auto;
+}
+@media (max-width: 768px) {
+    .course img {
+        width :80%;
+    }
 }
 
 /*問い合わせ*/
