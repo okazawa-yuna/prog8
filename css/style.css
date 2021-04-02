@@ -191,14 +191,14 @@ ul {
 }
 /*フッター*/
 
-footer {
+footer p {
     font-size:14px;
     text-align: right;
     margin-top:300px;
     margin-right: 50px;
 }
 @media (max-width:769px) {
-    footer {
+    footer p {
         text-align: center;
         font-size: 12px;
     }
