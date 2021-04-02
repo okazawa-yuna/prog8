@@ -171,7 +171,7 @@ ul {
     border-style: solid #c0c0c0;
 }
 .button {
-    width:200px;
+    width:500px;
     height:60px ;
     padding : 10px ;
     color: #fff;
@@ -200,6 +200,6 @@ footer p {
 @media (max-width:769px) {
     footer p {
         text-align: center;
-        font-size: 12px;
+        font-size: 10px;
     }
 }
