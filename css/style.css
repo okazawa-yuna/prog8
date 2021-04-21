@@ -80,6 +80,9 @@ ul {
 }
 
 @media (max-width:769px) {
+    .top-menu {
+    flex-derection: row-reverse;
+    }
     .main-vsual img {
         display : none;
     }
