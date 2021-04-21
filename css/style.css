@@ -37,6 +37,10 @@ ul {
     height:50px;
     margin:20px;
 }
+.top-menu a {
+color:#000;
+text-decoration-line: none;
+}
 .main-vsual {
     position:relative;
     background-image: url("../img/main-vsual-nontitle.png");
@@ -73,10 +77,6 @@ ul {
     float:right;
     padding: 0px 10px;
     font-weight:bold;
-.menu a {
-color:#000;
-text-decoration-line: none
-}
 
 @media (max-width:769px) {
     .main-vsual img {
