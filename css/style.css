@@ -74,7 +74,7 @@ ul {
     margin: auto 20px;
 }
 .menu li {
-    float:right;
+    float:left;
     padding: 0px 10px;
     font-weight:bold;
 }
